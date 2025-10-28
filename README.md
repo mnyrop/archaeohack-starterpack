@@ -12,4 +12,4 @@ Above: *King holding flail and wearing red crown of Lower Egypt* (Gardiner A46, 
 ## Questions
 - Is this the full set of hieroglyphs? If not, is it an adequate set? 
 - If not adequate, how might we get a fuller set of unicode -> gardiner numbers to rerun this process on? 
-- Is the size adequate? (Can regenerate them larger, the process uses a scalable vector font.)
+- Is the image size/resolution adequate? (Can regenerate them larger if not, the process uses a scalable vector font.)
