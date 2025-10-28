@@ -1,3 +1,5 @@
+# requires system imagemagick install for `magick` command
+
 require 'fileutils'
 require 'json'
 
